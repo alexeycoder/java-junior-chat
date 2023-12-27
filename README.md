@@ -30,6 +30,8 @@
 
 	java -jar target/junior-chat-client-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 
-### Пример:
+### Примеры:
 
-![Пример](https://github.com/alexeycoder/illustrations/blob/main/java-junior-chat-client-server/example.png?raw=true)
+![Пример 1](https://github.com/alexeycoder/illustrations/blob/main/java-junior-chat-client-server/example.png?raw=true)
+
+![Пример 2](https://github.com/alexeycoder/illustrations/blob/main/java-junior-chat-client-server/example2.png?raw=true)
